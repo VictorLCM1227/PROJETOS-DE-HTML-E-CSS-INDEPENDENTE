@@ -3,3 +3,7 @@ img {
         max-width: 1200px;
         height: auto;
         }
+
+p {
+    text-align: justify
+}
